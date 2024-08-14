@@ -47,5 +47,8 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 Thank you for using PartyPoker! We hope you enjoy playing with your friends. If you have any questions or concerns about this Privacy Policy, please feel free to contact us at:
 
+
 **Email**: jirkadaberger27@gmail.com
 
+For more information download the latest version of PartyPoker:
+[<img src="http://pluspng.com/img-png/get-it-on-google-play-badge-png-open-2000.png" height="48">](https://play.google.com/store/apps/details?id=com.dabi.partypoker)
