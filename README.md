@@ -12,6 +12,8 @@ PartyPoker does not collect, store, or share any personal data. All interactions
 ### Permissions
 To function properly, PartyPoker requires the following permissions:
 
+- **VIBRATE**: This permission allows app to vibrate according to the player's settings.
+ 
 - **ACCESS_WIFI_STATE**: This permission allows the app to check the state of Wi-Fi connectivity. It is used to ensure that the device can connect to nearby devices for gameplay.
   
 - **CHANGE_WIFI_STATE**: This permission allows the app to change Wi-Fi connectivity states, which is necessary to establish and maintain connections between devices.
