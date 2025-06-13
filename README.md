@@ -1,16 +1,16 @@
-# Privacy Policy for PartyPoker game
+# Privacy Policy for Offline Party: Nearby Poker game
 
 ## Introduction
 
-Welcome to PartyPoker! This privacy policy explains how we collect, use, and protect your information when you use our app. PartyPoker is a poker game that uses the NearbyConnections API to enable gameplay between devices in close proximity. This game does not collect or store any personal information, and there is no remote server involved. The game is purely for entertainment among friends and does not involve real money.
+Welcome to the Offline Party: Nearby Poker! This privacy policy explains how we collect, use, and protect your information when you use our app. Offline Party: Nearby Poker is a poker game that uses the NearbyConnections API to enable gameplay between devices in close proximity. This game does not collect or store any personal information, and there is no remote server involved. The game is purely for entertainment among friends and does not involve real money.
 
 ## Information Collection and Use
 
 ### No Personal Data Collection
-PartyPoker does not collect, store, or share any personal data. All interactions and data exchanges occur solely between the devices participating in the game session. There is no backend server or cloud service involved in the operation of the game.
+Offline Party: Nearby Poker does not collect, store, or share any personal data. All interactions and data exchanges occur solely between the devices participating in the game session. There is no backend server or cloud service involved in the operation of the game.
 
 ### Permissions
-To function properly, PartyPoker requires the following permissions:
+To function properly, Offline Party: Nearby Poker requires the following permissions:
 
 - **VIBRATE**: This permission allows app to vibrate according to the player's settings.
  
@@ -37,7 +37,7 @@ To function properly, PartyPoker requires the following permissions:
 These permissions are crucial for the app to establish a reliable connection between devices, ensuring smooth and enjoyable gameplay.
 
 ## Data Security
-Since PartyPoker does not collect or transmit any personal data, there are no concerns regarding data storage or security. All game-related data is exchanged directly between devices involved in the game session and is not stored beyond the duration of the game.
+Since Offline Party: Nearby Poker does not collect or transmit any personal data, there are no concerns regarding data storage or security. All game-related data is exchanged directly between devices involved in the game session and is not stored beyond the duration of the game.
 
 ## Changes to This Privacy Policy
 
@@ -45,10 +45,10 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Final Word
 
-Thank you for using PartyPoker! We hope you enjoy playing with your friends. If you have any questions or concerns about this Privacy Policy, please feel free to contact us at:
+Thank you for using Offline Party: Nearby Poker! We hope you enjoy playing with your friends. If you have any questions or concerns about this Privacy Policy, please feel free to contact us at:
 
 
 **Email**: jirkadaberger27@gmail.com
 
-For more information download the latest version of PartyPoker:
+For more information download the latest version of Offline Party: Nearby Poker:
 [<img src="http://pluspng.com/img-png/get-it-on-google-play-badge-png-open-2000.png" height="48">](https://play.google.com/store/apps/details?id=com.dabi.partypoker)
